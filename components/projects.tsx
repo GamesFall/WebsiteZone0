@@ -15,7 +15,7 @@ export function Projects() {
         'A personal portfolio website showcasing my projects and skills.',
       image: '/website.png?height=300&width=400',
       tech: ['React', 'Next.js', 'Tailwind CSS', 'TypeScript'],
-      github: '#',
+      github: 'https://github.com/GamesFall/WebsiteZone0',
       live: 'www.baylor-vannote.com',
     },
     {
@@ -24,7 +24,7 @@ export function Projects() {
         'A chess game built with C# inside Unity featuring AI opponents. With a long term goal of adding a full chess engine.',
       image: '/chess.png?height=300&width=400',
       tech: ['Unity', 'C#', 'AI'],
-      github: '#',
+      github: 'https://github.com/GamesFall/Chess',
       live: '/chess',
     },
     {
